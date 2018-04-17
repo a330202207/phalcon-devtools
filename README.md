@@ -1,5 +1,5 @@
 # Phalcon Devtools
-生成模型（Generating Models）带中文注释注释
+生成模型（Generating Models）带中文注释
 
 
 命令：
